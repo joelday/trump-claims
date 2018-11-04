@@ -1,0 +1,14 @@
+{
+  "name": "trump-claims",
+  "version": "1.0.0",
+  "description": "The Washington Post's database of Donald Trump's false and misleading claims.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "claims.json"
+  ],
+  "author": {
+    "name": "The Washington Post",
+    "url": "https://www.washingtonpost.com/graphics/politics/trump-claims-database"
+  }
+}

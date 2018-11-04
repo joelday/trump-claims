@@ -1,0 +1,1 @@
+Pulled from https://www.washingtonpost.com/graphics/politics/trump-claims-database.
